@@ -1,5 +1,7 @@
 # GameHub
 
+**Author Name:** Cameron Gordon (solo)
+
 ## Checklist
 
 - [ ] frequent commits to github.
